@@ -8,9 +8,9 @@ This project is used to deploy V2Ray WebSocket on Heroku. To the extent of reaso
 
 Once deployed, V2Ray will always run with the latest version every time the app is launched
 
-## deploy
+## Deploy
 
-### steps
+### Steps:
 
  1. Fork this project to your own GitHub account (username is `example`)
  2. Modify the project name, be careful not to include the keywords `v2ray` and `heroku` (the modified project name takes `demo` as an example)
@@ -19,7 +19,7 @@ Once deployed, V2Ray will always run with the latest version every time the app 
 > [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/PeterHCM/v2ray-heroku)
  4. Go back to the project homepage and click the link above to deploy V2Ray
 
-### variables
+### Variables
 
 The variable names that need to be set during deployment are explained as follows.
 
